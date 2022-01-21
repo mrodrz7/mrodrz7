@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrodrz7 - also known as @martycodes on Twitter.
+- 👋 Hi, I’m Martin - also known as @martycodes on Twitter.
 - 👀 I’m interested in teaching others how to get started with coding while sharing my own journey!
 - 🌱 I’m currently re-learning all the fundamentals and basics of programming.
 - 💞️ I’m looking to collaborate on any type of project.
